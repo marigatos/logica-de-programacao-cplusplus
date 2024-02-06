@@ -1,0 +1,19 @@
+let x = 0
+let speed = 0.075
+function setup() {
+  frameRate(30) 
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(255, 190, 210); 
+  let deltaX = speed * deltaTime
+  x += deltaX 
+  if (x > 350) {
+    x = 0
+  }
+    
+  
+  circle (x ,200, 100) 
+  
+}
