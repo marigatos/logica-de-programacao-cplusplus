@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153602\\Documents\\logica-de-programacao-cplusplus\\logica.cpp\\aula03_operacao_mat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B32B0EB3-755C-4DA4-A2A6-886C0A9FC2ED}|aula03_operacao_mat\\aula03_operacao_mat.vcxproj|C:\\Users\\24153602\\Documents\\logica-de-programacao-cplusplus\\logica.cpp\\aula03_operacao_mat\\aula03_operacao_mat\\aula03_operacao_mat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B32B0EB3-755C-4DA4-A2A6-886C0A9FC2ED}|aula03_operacao_mat\\aula03_operacao_mat.vcxproj|solutionrelative:aula03_operacao_mat\\aula03_operacao_mat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula03_operacao_mat.cpp",
+              "DocumentMoniker": "C:\\Users\\24153602\\Documents\\logica-de-programacao-cplusplus\\logica.cpp\\aula03_operacao_mat\\aula03_operacao_mat\\aula03_operacao_mat.cpp",
+              "RelativeDocumentMoniker": "aula03_operacao_mat\\aula03_operacao_mat.cpp",
+              "ToolTip": "C:\\Users\\24153602\\Documents\\logica-de-programacao-cplusplus\\logica.cpp\\aula03_operacao_mat\\aula03_operacao_mat\\aula03_operacao_mat.cpp",
+              "RelativeToolTip": "aula03_operacao_mat\\aula03_operacao_mat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T19:23:08.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
